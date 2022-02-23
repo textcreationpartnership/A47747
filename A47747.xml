@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of advice to a friend upon the modern argument of the lawfulness of simple fornication, half-adultery, and polygamy.</title>
+            <author>Leslie, Charles, 1650-1722.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47747</idno>
+            <idno type="STC">Wing L1136</idno>
+            <idno type="STC">ESTC R41466</idno>
+            <idno type="EEBO-CITATION">31355400</idno>
+            <idno type="OCLC">ocm 31355400</idno>
+            <idno type="VID">110443</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47747)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110443)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1744:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of advice to a friend upon the modern argument of the lawfulness of simple fornication, half-adultery, and polygamy.</title>
+                  <author>Leslie, Charles, 1650-1722.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Keblewhite ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Charles Leslie by Wing (2nd ed.)</note>
+                  <note>Title page contains ms. note: "Author of ye snake in ye grass".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sexual ethics.</term>
+               <term>Polygamy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110443:1" rendition="simple:additions"/>
+            <p>A LETTER of Advice TO A FRIEND, UPON THE MODERN ARGUMENT Of the Lawfulneſs of <hi>Simple Fornication,</hi> HALF-ADULTERY, AND POLYGAMY.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>William Keblewhite,</hi> at the <hi>White Swan,</hi> in St. <hi>Paul</hi>'s Church-Yard. 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:110443:2"/>
+            <pb n="3" facs="tcp:110443:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>July</hi> 17. 1696.</date>
+               </dateline>
+               <salute>Sir,</salute>
+            </opener>
+            <p>THE Diſcourſe which happened in our Company laſt night, has obliged me to write this Letter to you. I am aſtoniſhed to ſee ſuch Paradoxes of Iniquity ſet up, and to prevail ſo unreaſon<g ref="char:EOLhyphen"/>ably among Men who think themſelves the greateſt Ma<g ref="char:EOLhyphen"/>ſters of Reaſon. To think <hi>Polygamy</hi> and <hi>Fornication</hi> law<g ref="char:EOLhyphen"/>ful; nay, and as ſome maintained (for there is no ſtop in wickedneſs) even <hi>Adultery</hi> too.</p>
+            <p>There is nothing in this Matter; but that Men, having their Appetites unbridled, by any Reſtraint or Diſcipline of Religion, have given them a looſe, are reſolved to purſue them whitherſoever they go; and invent the beſt Arguments they can to defend them. Nay, ſome come at laſt to believe what they have at firſt offered in jeſt, and to try what it would do. And it is a juſt Judgment, and often threatned by God, to give thoſe up to follow their own Imaginations, who have no Pleaſure in his ways; but, inſtead of loving them, and ſetting them<g ref="char:EOLhyphen"/>ſelves, with the full force and ſtrength of their Minds, Carefully and Diligently to follow them; and to take Pleaſure in them: do, on the contrary, delight to Rally them and to hear Arguments ſet up againſt them, which is a ſure Intimation of a diſlike of them, and conſequently a Contempt of him who enjoined them; nay, a hatred of him: for we cannot love him, and hate his Laws. We never ſaw him, and know him only by his Laws, and
+<pb n="4" facs="tcp:110443:3"/>that Light of himſelf which he has given us therein. Therefore when we would tranſgreſs the plain Letter of the Law, as all the World has ever underſtood it, we can never be ſure but that we are in the diſmal Number, and under the heavy Curſe of the Haters of God, unleſs we can bring an Authority which will out ballance that upon which the Letter of the Law does ſtand. Now all the World has hitherto underſtood that both <hi>Fornication</hi> and <hi>Adulte<g ref="char:EOLhyphen"/>ry</hi> are forbidden under the <hi>Goſpel.</hi> And what is it which our Modern Wits have to oppoſe to this? Why (for<g ref="char:EOLhyphen"/>ſooth!) as you heard ſome of them ſay, that the ſame Word, in <hi>Greek,</hi> ſignifies <hi>Adultery</hi> and <hi>Fornication,</hi> which is a great miſtake, otherwiſe than as it is in <hi>Engliſh,</hi> and in all Languages. There are general words which Com<g ref="char:EOLhyphen"/>prehend both, as <hi>Whoredom, Uncleanneſs,</hi> and the like. But there are likewiſe particular words, which diſtinguiſh the particular Species of theſe from one another: and you have theſe reckon'd up diſtinctly, <hi>Gal.</hi> 5.19. <hi>A<g ref="char:EOLhyphen"/>dultery, Fornication, Uncleanneſs, Laſciviouſneſs.</hi> And the Words <hi>Adultery</hi> and <hi>Fornication</hi> are as much diſtin<g ref="char:EOLhyphen"/>guiſhed in the <hi>Greek</hi> as in the <hi>Engliſh;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is <hi>A<g ref="char:EOLhyphen"/>dultery</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is <hi>Fornication.</hi> And this poor and falſe Criticiſm, is ſufficient to carry thoſe who have ſtrong Inclinations, to the hazard of their Souls, againſt the re<g ref="char:EOLhyphen"/>ceived and current Teſtimony of the whole World; whereas they would not venture a Peny againſt a Crown, were there half of that Odds againſt them.</p>
+            <p>Let me next recollect to you, the Arguments they brought for their pretended Opinion, from Reaſon. I call it a <hi>Pretended</hi> Opinion, becauſe though Men endea<g ref="char:EOLhyphen"/>vour to amuze themſelves, that they be not ſtopped in the hot purſuit of their Luſts, yet I cannot believe, that, in cool thoughts, any who has ever learned the firſt Principles of Chriſtianity, can perſuade himſelf (eſpecial<g ref="char:EOLhyphen"/>ly upon a Sick-bed) that any <hi>Fornication</hi> or <hi>Uncleanneſs</hi>
+               <pb n="5" facs="tcp:110443:3"/>can be allowed in the Goſpel, which requires the utmoſt Purity, not only of the <hi>Eye,</hi> but of the <hi>Heart.</hi> However, let us hear their Reaſons. They urge from <hi>Juſtice,</hi> that there is no <hi>wrong</hi> to any <hi>third</hi> Perſon, where both the Parties are <hi>Single.</hi>
+            </p>
+            <p>But this Argument will have no Effect, unleſs they can annul the Commands of God, which Forbid it. Becauſe we are bound, and that in the ſtricteſt <hi>Juſtice,</hi> to obey God's Commands, even in things which are Indifferent in their own Nature. It was Death to neglect <hi>Circumciſion,</hi> and other Legal Inſtitutions. God ſought to kill <hi>Moſes</hi> himſelf for neglecting to Circumciſe his Son. <hi>Exod.</hi> iv. 24.</p>
+            <p n="2">2. The Argument is falſe that there is no wrong done to any <hi>third</hi> Perſon in <hi>Fornication.</hi> For, it is a great wrong to the <hi>Parents, Relations,</hi> and whole <hi>Family.</hi> Let any Man judge of this, by the Reſentment he would have againſt any who ſhould Debauch his <hi>Mother, Daugh<g ref="char:EOLhyphen"/>ter,</hi> or <hi>Siſter,</hi> and againſt them ſo Debauched.</p>
+            <p n="3">3. If there was no wrong to any <hi>other,</hi> yet if it be a <hi>Sin,</hi> it is the greateſt wrong to the Perſons themſelves; to Damn their <hi>Souls.</hi> And it is the higheſt <hi>Injuſtice</hi> as to this World; it ruins their <hi>Reputation:</hi> and this, eſpe<g ref="char:EOLhyphen"/>cially in <hi>Women,</hi> is not only a <hi>ſhame</hi> (if they ſhould be content to bear with that) but it is a Real <hi>Loſs,</hi> and hindrance of their <hi>Fortunes;</hi> and though it ſhould not be known, it is a great <hi>Injuſtice</hi> to the Man who ſhall Mar<g ref="char:EOLhyphen"/>ry ſuch a Woman. If any think little of this, let them conſider how they would take it to Marry another Man's <hi>Whore;</hi> and let them do as they would be done to. But there is yet a greater <hi>Injuſtice,</hi> and that is, to the Perſon herſelf: for ſhe that is once Debauched is laid open to the Temptations of others; and when forſaken by her firſt Lover, ſeldom returns to her Virgin Modeſty, but ſeeks out, or is found by ſome other; and often goes on to common Proſtitution; all which is, in <hi>Juſtice,</hi> charge<g ref="char:EOLhyphen"/>able
+<pb n="6" facs="tcp:110443:4"/>upon her firſt Corrupter. And if, as many believe, the reaſon why <hi>Dives</hi> deſir'd the Converſion of his Brethren, was not <hi>Charity</hi> to their <hi>Souls</hi> (for that is not found in Hell) but becauſe his Puniſhments were increaſed to the ſame Degree that his evil Example did ſpread up<g ref="char:EOLhyphen"/>on Earth, by which we muſt ſuppoſe his Brethren and neareſt Acquaintance to be chiefly infected, this will be a terrible Conſideration to thoſe who do Corrupt others.</p>
+            <p>What I have ſaid as to <hi>Fornication,</hi> that is betwixt two <hi>Single</hi> Perſons, will Operate more ſtrongly againſt that New Notion of <hi>Adultery,</hi> which you heard advanc'd, <hi>viz.</hi> That <hi>Adulterium</hi> is <hi>quafi, ad alterius Thorum,</hi> i. e. to go to <hi>anothers</hi> Bed; and therefore that betwixt a <hi>Single</hi> and a <hi>Married</hi> Perſon, it is <hi>Adultery</hi> only in the <hi>Single</hi> Perſon, who Invades the Bed of <hi>another.</hi>
+            </p>
+            <p>But this poor <hi>Quibble</hi> upon the <hi>Latin</hi> word <hi>Adulterium,</hi> is loſt in the <hi>Greek</hi> Original of the <hi>Text,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. But as to the Reaſon of the thing, if the <hi>Single</hi> Perſon <hi>In<g ref="char:EOLhyphen"/>vades,</hi> the <hi>Married</hi> does <hi>Defile</hi> and <hi>Betray</hi> the Bed of ano<g ref="char:EOLhyphen"/>ther: and moreover adds the Breach of the Solemn <hi>Vow</hi> to <hi>God,</hi> which is Exacted in the Office of Matrimony. Be<g ref="char:EOLhyphen"/>ſides, if one be Guilty, both muſt; becauſe it is a ſin to be Acceſſary to the ſin of another.</p>
+            <p>Wretched are theſe ſhifts, which Men, bent to their own Deſtruction, have found out to delude themſelves! But they will ſtand them in no ſtead at the Bar of the Great Tribunal: no nor qualifie their Deſponding Con<g ref="char:EOLhyphen"/>ſciences upon their Death-Bed; upon which, Men have a Notion of ſinful Pleaſures, when they are to be for ever ſeparated from them, very different from that which they had while they were in the Purſuit of them: and thoſe Arguments which then appeared favourable to the Grati<g ref="char:EOLhyphen"/>fication of their Luſts, will now be ſeen in their true Colours, to be nothing but Deceit and Fatal Deluſion; like Promiſes which are ſaid to be made to <hi>Witches</hi> by
+<pb n="7" facs="tcp:110443:4"/>their <hi>Familiars,</hi> which are not diſcovered, till their Death, to have a double meaning; a <hi>Falſe</hi> one to de<g ref="char:EOLhyphen"/>lude them with Hopes while they liv'd; but the <hi>True</hi> one always verified in their Deſtruction, when it is too late to Prevent it.</p>
+            <p>When Men ſin out of Human Infirmity, there is a Sting of Conſcience always remains; which, by the Bleſ<g ref="char:EOLhyphen"/>ſing of God, may ſome time or other Reclaim them: though it is the moſt extreme Danger and Madneſs, to go on in our ſins truſting to this: For when Habits are grown ſtrong, it is the utmoſt difficulty to return from them. <hi>Can the Ethiopian change his skin, or the Leopard his Spots? Then may ye alſo do good, that are accuſtomed to do evil,</hi> Jer. xiii. 23.</p>
+            <p>But ſome to get rid of that terrible Monitor, a <hi>wounded Conſcience</hi> (when they are reſolved not to part with their Vices) do ſtuddy, and greedily catch at Arguments, to alter the Nature of their ſin (which cannot be altered) and ſo come at laſt to Perſuade themſelves that they are Perſuaded of the <hi>Lawfulneſs,</hi> at leaſt <hi>Tolerableneſs</hi> of a <hi>Darling</hi> ſin; which therefore they Indulge, if not without all Reluctance, yet with leſs than they had before; and therefore think this a happy Conqueſt.</p>
+            <p>But (alas!) it is a miſerable one over themſelves; and their Condition then is moſt Deſperate, for this is a Cor<g ref="char:EOLhyphen"/>rupting of their <hi>Principles:</hi> and there is no Repenting or Returning from that ſin which they think not to be a ſin, or can find excuſes for it, ſuch as, for the preſent, ſhall ſa<g ref="char:EOLhyphen"/>tisfie them; at leaſt ſtop the Mouth of a Clamorous Con<g ref="char:EOLhyphen"/>ſcience. <hi>Balaam</hi> ſought ſuch an Excuſe, and he found it: and <hi>He that ſeeks ſhall find</hi> in this wicked Senſe, as well as in the contrary Senſe of which our <hi>Saviour</hi> ſpoke it.</p>
+            <p>And now let me Reaſon a little with you upon the Me<g ref="char:EOLhyphen"/>rits of this Cauſe. <hi>God</hi> is a <hi>Spirit,</hi> and therefore <hi>Spirit</hi> is more <hi>Real,</hi> more <hi>ſubſtantial</hi> than <hi>Body;</hi> and the true
+<pb n="8" facs="tcp:110443:5"/>Pleaſure is indeed but <hi>Spiritual,</hi> in that low Degree, by which our <hi>Spirit</hi> or <hi>Soul</hi> partakes of Pleaſure by the Me<g ref="char:EOLhyphen"/>diation of the <hi>Body;</hi> or the <hi>Body</hi> only by the Powers of the <hi>Soul,</hi> which enliven and actuate it; and from which it receives its <hi>Senſation;</hi> and therefore when our <hi>Soul</hi> is gone, the <hi>Body</hi> is no longer Senſible either of <hi>Pleaſure</hi> or <hi>Pain;</hi> becauſe the <hi>Soul</hi> acts no more by it. But thoſe Pure <hi>Souls</hi> which act without the Incumbrance of <hi>Bodies,</hi> have a Perception much more Quick and Delicate than can be conveyed by ſuch Groſs and Elementary Body, as ours are rendered ſince the Fall. And therefore the Happineſs which is laid up for us, is to be freed from the Dull and Terreſtrial Bodies; and to have <hi>Spiritual</hi> Bodies given to us, faſhioned like unto <hi>Chriſt</hi>'s Glorious Body. This is our utmoſt Happineſs, and thither all our endeavours ſhould tend. And this is the gre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t end of our Religion, to wean us from the Body; to Fit and Prepare us for the <hi>Spiritual</hi> State: For we muſt be, in ſome ſort, made like unto it before we enter into it; and that is to be done while we are in this Life. Now, of all ſins, thoſe of the <hi>Fleſh</hi> are the moſt oppoſite to the <hi>Spiritual</hi> Enjoyment; and therefore the <hi>Fleſh</hi> is to be kept under, even in our <hi>Lawful</hi> allowances; we may ſin by exceſs in them: how much leſs then are <hi>Forbidden</hi> Pleaſures to be allow'd of? For all theſe do proceed from an <hi>Inordinate</hi> Affection; which of it ſelf is a <hi>ſin.</hi> Therefore, taking this matter from the bottom, you ſee the Reaſon of the ſevere Prohi<g ref="char:EOLhyphen"/>bitions againſt the ſins of the <hi>Fleſh;</hi> they are utterly in<g ref="char:EOLhyphen"/>conſiſtent with a <hi>Spiritual</hi> Eſtate; they do, the moſt of all other ſins, incapacitate us from the <hi>Spiritual</hi> Delight; they put us into a Frame quite oppoſite to it; and that is, to <hi>God:</hi> whom the <hi>Pure</hi> Hearts and Minds do only ſee (<hi>Matth.</hi> v. 8) for he is <hi>Spiritually</hi> Diſcern'd. Therefore it is ſaid <hi>Gal.</hi> 5.17. <hi>That the fleſh luſteth againſt the ſpirit, and the ſpirit againſt the fleſh; and theſe are contrary the one
+<pb n="9" facs="tcp:110443:5"/>to the other.</hi> And 1 Pet. ii. 11. <hi>Dearly beloved I beſeech you, as ſtrangers and Pilgrims, abſtain from fleſhly luſts, which war againſt the Soul.</hi> Obſerve they <hi>War</hi> againſt the <hi>Soul:</hi> and the Reaſon why we ſhould ſubdue them, is becauſe we are <hi>Strangers</hi> and <hi>Pilgrims,</hi> that is, in this world; our Reſt, our Enjoyment is not here; but we are or<g ref="char:EOLhyphen"/>dained to be made partakers of the <hi>Divine</hi> Nature, but this ſhall be only to thoſe <hi>who have eſcaped the Corruption that is in the world through luſt.</hi> 2 Pet. i. 4. That is, either thoſe who have not been guilty of it; or who have ſin<g ref="char:EOLhyphen"/>cerely Repented, and returned from it; as <hi>Mary Magda<g ref="char:EOLhyphen"/>len,</hi> out of whom <hi>Chriſt</hi> caſt <hi>ſeven Devils,</hi> Mar. xvi. 9. There are <hi>Evil Spirits</hi> (believe it) which Poſſeſs thoſe who give themſelves up to <hi>Uncleanneſs;</hi> and theſe muſt be Diſpoſſeſſed before the <hi>Holy Spirit</hi> of <hi>God</hi> will enter; which will never deſcend to a <hi>foul</hi> and <hi>polluted Soul.</hi> This is the great Argument us'd, 1 <hi>Cor.</hi> 6. That our <hi>Bodies</hi> are the <hi>Temples</hi> of the <hi>Holy Ghoſt;</hi> and <hi>Chap.</hi> 3.17. <hi>If any man defile the Temple of God, him ſhall God deſtroy.</hi> We are <hi>Members</hi> of <hi>Chriſt, ſhall I then take the Members of Chriſt, and make them the Members of an Harlot?</hi> This Conſideration is Dreadful! <hi>The Body is not for Fornication, but for the Lord; and the Lord for the body:</hi> Here is great Honour given to our Bodies; the Lord has reſer<g ref="char:EOLhyphen"/>ved them for himſelf, and himſelf for them. This is a great Myſtery, and ſhould ſtrike us with aſtoniſhment! And from hence it may be argued, that when we abuſe our Bodies we commit <hi>Adultery</hi> even againſt <hi>God;</hi> who is <hi>Married</hi> to us, <hi>Jer.</hi> 3.14. And to ſhew the Hatefulneſs of this ſin, <hi>Idolatry</hi> is all along through the <hi>Prophets</hi> cal<g ref="char:EOLhyphen"/>led going a <hi>Whoring</hi> from the <hi>Lord,</hi> committing <hi>Adultery</hi> againſt him. And as this ſin is moſt Provoking to God, ſo it comes neareſt to our ſelves, it affects us moſt of any other ſin. <hi>Every ſin that a man doeth, is without the Body; but he that committeth Fornication, ſinneth againſt his own
+<pb n="10" facs="tcp:110443:6"/>Body.</hi> It is like putting hand on ones ſelf, aſſaulting of our own <hi>Bodies.</hi> And God has puniſhed this ſin ſeverely, in <hi>Sampſon,</hi> in <hi>David,</hi> in <hi>Solomon;</hi> the Greateſt, the Wiſeſt, the Braveſt of Men. It was this ſin of <hi>Luſt,</hi> for which the <hi>World</hi> was Drowned, <hi>Sodom</hi> Burned, and the <hi>Canaanites</hi> utterly Deſtroyed, <hi>Lev.</hi> xviii. 27. God has poured greater Ven<g ref="char:EOLhyphen"/>geance upon no ſort of ſin. Many late Examples might be given, King <hi>James</hi> I. in his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to Prince <hi>Henry,</hi> particularly obſerves that this ſin is often puniſhed with want of lawful Iſſue, or the Death of thoſe we have; and he gives his Grandfather King <hi>James</hi> V. for an Inſtance; who was much ſubject to Incontinency, and loſt both his Sons moſt unfortunately, and left his Crown to an Infant Daughter. And, on the other hand, he ob<g ref="char:EOLhyphen"/>ſerves how God had bleſſed himſelf with a greater Gift of Continency, and a numerous Iſſue. As he did in both reſpects to his Son King <hi>Charles</hi> I. But King <hi>Charles</hi> II. had no lawful Iſſue: and his un-lawful was a Grief of Heart to him, joining with the Seditious Party againſt him. How many Noble Families in <hi>England</hi> might be brought as Inſtances, to confirm this Obſervation, whoſe Honours are fallen, or gone into Collateral Families, for want of lawful Heirs, from the moſt remarkable Cor<g ref="char:EOLhyphen"/>rupters of the Marriage Bed? But I will not take up time in this. I refer you, for the Heinouſneſs of this ſin, and God's Puniſhments upon it, to the <hi>Homily</hi> againſt <hi>Adul<g ref="char:EOLhyphen"/>tery;</hi> and <hi>The Whole Duty of Man,</hi> upon this Head.</p>
+            <p>I ſhall only obſerve that there is a kind of Evil Spirits, as our <hi>Saviour</hi> tells us, which will not be got out but by <hi>Prayer</hi> and <hi>Faſting;</hi> and certainly this of <hi>Luſt</hi> is one of that kind. For while we Pamper our Body to that de<g ref="char:EOLhyphen"/>gree, that it is grievous to us to deny it a Meal of Meat; when ſhall we ſubdue it, and bring it under, that it may ſerve us, but not Maſter us; not overcome our Reaſon, to lay aſide the Care of our <hi>Soul,</hi> which is <hi>Eternal,</hi> to
+<pb n="11" facs="tcp:110443:6"/>gratifie its <hi>Beaſtly Deſires,</hi> which are but for a <hi>Moment?</hi> But the <hi>Guilt</hi> never <hi>Dies,</hi> though the <hi>Body</hi> be laid in the <hi>Duſt.</hi> How <hi>Fooliſh</hi> then, how <hi>Dreadful,</hi> how <hi>Sottiſh</hi> is it, to neglect the <hi>Eternal welfare</hi> both of <hi>Soul</hi> and <hi>Body,</hi> for nothing elſe but to give the <hi>Body</hi> a little ſwing now, after <hi>Childiſh</hi> and <hi>Tranſitory Follies!</hi> And how <hi>Reaſonable</hi> is it, how <hi>Manly,</hi> how <hi>Chriſtian</hi> to keep it under a fit Diſci<g ref="char:EOLhyphen"/>pline; to <hi>Feed,</hi> but not to <hi>Pamper</hi> it; not to Deſtroy it, but to hinder it from Deſtroying it ſelf, and us, that is our <hi>Souls</hi> with it! <hi>Whoredome and wine, and new wine take away the Heart,</hi> Hoſ. iv. 11. they incapacitate it from ſerious Conſideration, or any Buſineſs that requires <hi>Thought,</hi> though even of this World; how much more then of <hi>Spiritual</hi> things! Theſe are ſo oppoſite, that they cannot come into the ſame Mind together.</p>
+            <p>And if a Man would be juſtly Laughed at, and De<g ref="char:EOLhyphen"/>ſpiſed, who could not leave his <hi>Whore,</hi> or his <hi>Bottle</hi> to ſave his <hi>Eſtate,</hi> or any worldly Matter of great Moment; or to ſerve his <hi>Friend</hi> in a Point of <hi>Honour:</hi> If the Pleaſures of the <hi>Body</hi> muſt be ſacrificed to ſuch Conſiderations as theſe; is it then ſo monſtrouſly un<g ref="char:EOLhyphen"/>reaſonable that they ſhould give place, but a little, to Matters of <hi>Eternal</hi> Moment! If we venture the <hi>Health</hi> of our <hi>Bodies,</hi> to ſit up whole Nights upon <hi>Buſineſs;</hi> or it may be <hi>Goodfellowſhip, Cards</hi> or <hi>Dice;</hi> Reading <hi>Plays,</hi> or a <hi>Romance;</hi> with what Face can we pretend our <hi>Health</hi> as an excuſe againſt <hi>Watching</hi> one Night, or but Part of one, in <hi>Divine</hi> Exerciſes, to <hi>Trim</hi> our <hi>Lamps,</hi> and fit us for the <hi>coming</hi> of the <hi>Lord!</hi> No, then we can<g ref="char:EOLhyphen"/>not keep our Eyes from cloſing; and we grow <hi>ſick,</hi> that is <hi>weary</hi> of that Employment. And the Reaſon is, <hi>Senſu<g ref="char:EOLhyphen"/>ality</hi> takes away the Reliſh of <hi>Divine</hi> things; which can<g ref="char:EOLhyphen"/>not be apprehended but by a <hi>ſtrong</hi> and <hi>ſettled</hi> Thought: and of all things, <hi>ſenſuality</hi> does moſt weaken the Mind, enervates, and takes all ſtrength from it. <hi>How weak is thine heart, ſaith the Lord God, ſeeing thou doſt all theſe things,
+<pb n="12" facs="tcp:110443:7"/>the work of an imperious whoriſh woman?</hi> Ezek. xvi. 30. ſee a further Deſcription of this. <hi>Prov.</hi> vii. and then read an account of that which is oppoſite to it, the true <hi>Wiſdom,</hi> in the 8. Chapter. St. <hi>Paul</hi> ſaid, 1 Cor ix. 27. <hi>I run, not as uncertainly; ſo fight I, not as one that beateth the air; But I keep under my Body, and bring it into ſubjection; leſt that by any means, when I have preached to others, I my ſelf ſhould be a Caſt-away.</hi> You ſee, he eſteems it but an <hi>un<g ref="char:EOLhyphen"/>certain fighting,</hi> and <hi>beating of the air</hi> to uſe all other Ex<g ref="char:EOLhyphen"/>erciſes of Religion, if we add not that of Mortifying the <hi>Body;</hi> and that, without this, he himſelf, notwithſtand<g ref="char:EOLhyphen"/>ing of his great <hi>Labours</hi> in <hi>Preaching,</hi> his <hi>Travels</hi> and <hi>Per<g ref="char:EOLhyphen"/>ſecutions,</hi> would be in danger of being a <hi>Caſt-away.</hi> And if <hi>he</hi> needed it, who can excuſe himſelf? <hi>He,</hi> who was (one would think) in a continued ſtate of Mortification: for <hi>Even unto this preſent hour</hi> (ſays he, 1 Cor iv. 11.) <hi>We both hunger and thirſt; and are naked; and are buffeted; and have no certain dwelling place; and labour, working with our own hands,</hi> &amp;c. And yet to hear Men excuſe them<g ref="char:EOLhyphen"/>ſelves from <hi>Faſting</hi> one <hi>Day</hi> in a <hi>Week,</hi> who live in Plenty and Eaſe; if that were all; but who plead the <hi>Vigour</hi> of their <hi>Body,</hi> and <hi>ſtrength</hi> of their <hi>Conſtitution</hi> as an excuſe for gratifying their <hi>Luſts;</hi> which, by theſe means, grow too ſtrong for them! And therefore there is no hopes of perſuading any man by Reaſon, to forſake his <hi>Luſts,</hi> unleſs he will firſt conſent to Mortifie his <hi>Body.</hi> The leaſt meaſure can be adviſed are all the <hi>Faſts</hi> of the <hi>Church;</hi> and let each man's Zeal add to theſe as he ſees Cauſe: without this your <hi>Luſts</hi> will never give you leave to be heard; but keep you in perpetual Hurry, and want of Thought. This is the <hi>Deaf Adder</hi> that ſtoppeth your Ears, and her own, againſt the Voice of the <hi>Charmer.</hi> It is not <hi>words</hi> will do it; this is a more <hi>ſtubborn Devil.</hi> We muſt ſet too our whole <hi>ſtrength,</hi> and all our <hi>Application,</hi> and <hi>Faſt,</hi> and <hi>Pray,</hi> and beg <hi>God's aſſiſtance;</hi> we fight for
+<pb n="13" facs="tcp:110443:7"/>our <hi>Souls!</hi> we muſt not do it <hi>indifferently;</hi> and we muſt not be diſcouraged, if we do not preſently <hi>Prevail.</hi> God may think fit to try us, and to ſhew us the Danger we were in, and the Bitterneſs of ſin, by the difficulty of re<g ref="char:EOLhyphen"/>turning from it, and overcoming long Habits; and to let us ſee our own weakneſs, that we have no Power of our ſeves, to help our ſelves; and thence to teach us to put our whole Truſt in Him; and apply Diligently unto Him, by earneſt <hi>Prayer,</hi> and a careful attendance upon all His Holy <hi>Ordinances:</hi> and then, He will not Fail us; we ſhall <hi>preſently</hi> perceive that we have <hi>gain'd Ground</hi> of our E<g ref="char:EOLhyphen"/>nemy, and we ſhall <hi>overcome</hi> in the <hi>End.</hi> We have gone a great Length, when we are brought ſeriouſly to reckon our <hi>Luſt</hi> as our <hi>Enemy:</hi> for then we ſhall begin to ſtand upon our Guard againſt it; and never till then can we de<g ref="char:EOLunhyphen"/>ny it any thing, but follow its impetuoſity, <hi>as a horſe ruſheth to the Battel;</hi> and violently Purſue our own De<g ref="char:EOLhyphen"/>ſtruction; and nothing can ſtop us, but a <hi>Stronger</hi> than this <hi>ſtrong man;</hi> an higher Reliſh of <hi>Divine</hi> than of <hi>Sen<g ref="char:EOLhyphen"/>ſual</hi> things: till when <hi>Senſual</hi> things muſt prevail: and this true Knowledge of <hi>Heavenly</hi> Pleaſure is obtained in <hi>Faſt<g ref="char:EOLhyphen"/>ing</hi> and <hi>Retirement.</hi> Then it is that God works with us, when we are at Leaſure to hear Him; and ſhall we deny Him ſuch opportunity?</p>
+            <p>All this may ſeem an Excurſion, and leaving of the Ar<g ref="char:EOLhyphen"/>gument; but it is not. Their Arguments for this ſin are eaſily anſwered; and I have, in few words, anſwered them, for more needed not: but that which they moſt want is to be <hi>ſtirred up,</hi> and <hi>ſhaken</hi> out of their <hi>Lethargy.</hi> If once they come to <hi>Conſider,</hi> their <hi>Converſion</hi> is half Effected; towards which I can only add my Prayers to what I have ſaid in the ſmall compaſs to which I confine my ſelf. And I will now go on to conſider the other Point, which you heard diſcourſed of, that is, <hi>Polygamy.</hi>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:110443:8"/>This is bottomed upon the ſame looſe Principles as the other; to give the Range to our Luſts, and let them en<g ref="char:EOLhyphen"/>dure no Limits. But it has more pretence than the other; becauſe God did Diſpenſe with it, as with <hi>Arbitrary Di<g ref="char:EOLhyphen"/>vorces,</hi> in many Ages of the World. But our <hi>Bleſſed Sa<g ref="char:EOLhyphen"/>viour</hi> reduces both back again to the Original Inſtitution, <hi>Matth.</hi> xix. from <hi>verſe</hi> 3. to the 10. <hi>From the beginning</hi> (ſays he) <hi>it was not ſo.</hi> How was it then? God at the Beginning made only <hi>One</hi> Male, and <hi>One</hi> Female. And, <hi>for this cauſe, a man ſhall leave Father and Mother, and ſhall cleave to his Wife; and they twain ſhall be one fleſh.</hi> They <hi>Twain,</hi> here was but <hi>Two;</hi> this was the Original Inſtitution; and this is applyed to the Myſtical Marriage betwixt <hi>Chriſt</hi> and his <hi>Church:</hi> even as to the Number <hi>Two,</hi> and no more. <hi>Eph.</hi> v. 31, 32. <hi>They two ſhall be one Fleſh. This is a great Myſtery: but I ſpeak concerning Chriſt and the Church.</hi> This Parallel is made up by <hi>Two</hi> being joined in <hi>One;</hi> but not in <hi>One</hi> being joined to <hi>Many;</hi> it can hard<g ref="char:EOLhyphen"/>ly be ſaid to be <hi>One</hi> with <hi>Many.</hi> There is a <hi>Rivalſhip</hi> of the <hi>Many</hi> to that <hi>One,</hi> and there is a <hi>Diſperſion</hi> of the <hi>Love</hi> of the <hi>One</hi> among <hi>Many;</hi> and they cannot <hi>All</hi> par<g ref="char:EOLhyphen"/>take of the <hi>One</hi> alike. This is no Perfect Union; like the Union of <hi>One</hi> and <hi>One,</hi> which is a full Perfect Union; and a true Emblem of the Union betwixt <hi>Chriſt</hi> and the <hi>Church. My Love, my Undefiled is but One?</hi> Cant. vi. 9.</p>
+            <p>The firſt who broke in upon the Original Conſtitution was <hi>Lamech,</hi> of the Poſterity of <hi>Cain,</hi> who took <hi>Two</hi> Wives, <hi>Gen.</hi> iv. 19. But we find not that it prevail'd in the Poſterity of <hi>Seth;</hi> for, at the Flood. <hi>Noah,</hi> and his three <hi>Sons,</hi> had but <hi>each</hi> of them <hi>One</hi> Wife, who made up the <hi>Eight</hi> Perſons in the Ark.</p>
+            <p>And even when <hi>Polygamy</hi> was moſt in uſe, it was thought, though (in ſtrictneſs) <hi>lawful,</hi> becauſe then <hi>Di<g ref="char:EOLhyphen"/>ſpenſed</hi> with, yet an <hi>Imperfect,</hi> a <hi>Miſerable,</hi> and <hi>Inconvenient</hi> State. Therefore <hi>Laban</hi> adjures <hi>Jacob</hi> thus, <hi>Gen.</hi> xxxi. 50.
+<pb n="15" facs="tcp:110443:8"/>
+               <hi>If thou ſhalt afflict my Daughters, or if thou ſhalt take other Wives beſides my Daughters, — God is witneſs,</hi> &amp;c. And <hi>Lev.</hi> xviii. 18. It is written, <hi>Thou ſhalt not take a Wife to her Siſter,</hi> or, as our <hi>Margent</hi> Reads it, <hi>One Wife to ano<g ref="char:EOLhyphen"/>ther.</hi> This was the more Perfect State, though the other, <hi>for the hardneſs of their hearts,</hi> was Diſpenſed with, till <hi>Chriſt</hi> came to Reſtore all things, who gives a plain Rule <hi>Mark</hi> x. 11. againſt <hi>Polygamy,</hi> when he made it <hi>Adultery</hi> to put away one Wife and Marry another. For, if <hi>Poly<g ref="char:EOLhyphen"/>gamy</hi> be Lawful, how comes it to be <hi>Adultery</hi> to Marry another Wife, whether he put away the Firſt or not? To put away a Wife unjuſtly is a Crime; but it is not <hi>Adultery;</hi> the <hi>Adultery</hi> is the <hi>Marrying</hi> of another while the firſt Wife is alive.</p>
+            <p>
+               <hi>Let every Man have his own Wife, and every Woman her own Husband,</hi> 1 Cor. vii. 2. and the Reaſon given for it, <hi>ver.</hi> 2, 3, and 5. is only applicable to <hi>Monogamy.</hi> If it be ſaid that that was for the time to come; but did it Diſſolve the <hi>Polygamies</hi> before Contracted? I ſuppoſe not; ſo that if a Man, who had ſeveral Wives, were Converted to the Chriſtian Religion, it did not Divorce him from them all, or from all of them but One; but that he might keep thoſe Wives which he had married be<g ref="char:EOLhyphen"/>fore his Converſion: yet ſuch a Man ſhould not be Pre<g ref="char:EOLhyphen"/>ferred to any Office in the <hi>Miniſterial</hi> Function, and this I take to be no Improbable Conſtruction of thoſe Com<g ref="char:EOLhyphen"/>mands 1 Tim. iii. 2, and 12. that <hi>Biſhops</hi> and <hi>Deacons</hi> muſt be the <hi>Husbands of one Wife,</hi> that is, tho <hi>Polygamy</hi> did not incapacitate a Man to become a <hi>Chriſtian,</hi> yet it did to be a <hi>Clergyman;</hi> at leaſt it was ſo thought Expedient by the <hi>Apoſtle.</hi>
+            </p>
+            <p>And from the Apoſtles Times, to this Day, there is no one Doctrine of <hi>Chriſtianity,</hi> which has Deſcended by a more Univerſal conſent, and uninterrupted a Tradition, than this of <hi>Monogamy. Polygamy</hi> having never been allowed in a<g ref="char:EOLhyphen"/>ny <hi>Chriſtian</hi> Church or Nation: And yet againſt the Do<g ref="char:EOLhyphen"/>ctrine
+<pb n="16" facs="tcp:110443:9"/>of <hi>Chriſt,</hi> as Underſtood and Practiſed by the <hi>A<g ref="char:EOLhyphen"/>poſtles,</hi> and the <hi>Church</hi> of that <hi>Age,</hi> and all the <hi>Ages</hi> ſince, our thin <hi>Beaux</hi> would oppoſe their little <hi>Criticiſms;</hi> and cover themſelves with <hi>Cobwebs;</hi> who one Day, if they Repent not, will call to the Hills and Mountains to fall upon them, and hide them from their <hi>Judge</hi> and their <hi>Guilt. Who</hi> now <hi>being paſt feeling, have given themſelves over unto Laſciviouſneſs, to work all uncleanneſs with greedi<g ref="char:EOLhyphen"/>neſs. But ye have not ſo learned of Chriſt,</hi> Eph. iv. 19. <hi>For</hi> (Chap. v. 5.) <hi>this ye know, that no Whoremonger</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> it is not only <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Adulterer) <hi>nor unclean Perſon hath any Inheritance in the Kingdom of Chriſt, and of God. Let no man deceive you with vain words; for becauſe of theſe things cometh the wrath of God upon the Children of Diſobe<g ref="char:EOLhyphen"/>dience.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>
+               <hi>Books Printed for</hi> William Keblewhite at the <hi>Swan</hi> in St. <hi>Paul</hi>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Church-Yard.</head>
+            <list>
+               <item>BIſhop <hi>King</hi>'s Diſcourſe of Inventions of Men in the Wor<g ref="char:EOLhyphen"/>ſhip of God. <hi>Octave.</hi>
+               </item>
+               <item>— His Admonition to the Diſſenters of his Dioceſs. <hi>Octavo.</hi>
+               </item>
+               <item>Mr. <hi>Clutterbuck</hi> upon the Common-Prayer, Explaining the Terms, Order and Uſefulneſs of it. <hi>Octavo.</hi>
+               </item>
+               <item>Mr. <hi>Bramſton</hi>'s Sermon of Repentance. <hi>Quarto.</hi>
+               </item>
+               <item>Dr. <hi>Cockburn</hi>'s <hi>Jacob</hi>'s Vow, or Man's Felicity and Duty. <hi>Oct.</hi>
+               </item>
+               <item>— His enquiry into the Nature, Neceſſity and Evidence of Chriſtian Faith. <hi>Octavo.</hi>
+               </item>
+               <item>The Condemnation of Monſieur <hi>Du Pin</hi>'s Eccleſiaſtical Hi<g ref="char:EOLhyphen"/>ſtory by the Archbiſhop of <hi>Paris,</hi> with his own Retractation. <hi>Quarto.</hi>
+               </item>
+               <item>Mr. <hi>Ray</hi>'s Nomenclator Claſſicus for the uſe of Schools, <hi>Octavo.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:110443:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
